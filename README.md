@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -19,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0124-binary-tree-maximum-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->

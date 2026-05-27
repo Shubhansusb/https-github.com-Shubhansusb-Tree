@@ -31,8 +31,8 @@ public:
         }
     }
     void find(TreeNode* root, int k,
-              unordered_map<TreeNode*, TreeNode*>& parentsMap, int curr,
-              vector<int> &answer, unordered_set<TreeNode*> visited) {
+              unordered_map<TreeNode*, TreeNode*>& parentsMap,
+              vector<int> &answer, unordered_set<TreeNode*> &visited) {
         queue<pair<TreeNode*, int>> q;
         q.push({root, 0});
         visited.insert(root);
@@ -60,7 +60,7 @@ public:
         unordered_set<TreeNode*> visited;
         vector<int> answer;
         mapParents(root, parentsMap);
-        find(target, k, parentsMap, 0, answer, visited);
+        find(target, k, parentsMap, answer, visited);
         return answer;
     }
 };

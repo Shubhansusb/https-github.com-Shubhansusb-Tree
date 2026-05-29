@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0222-count-complete-tree-nodes) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shubhansusb/https-github.com-Shubhansusb-Tree/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

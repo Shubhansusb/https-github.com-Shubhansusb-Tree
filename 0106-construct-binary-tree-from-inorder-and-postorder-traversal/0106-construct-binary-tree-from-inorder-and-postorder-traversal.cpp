@@ -20,7 +20,7 @@ public:
 
         return -1;
     }
-    TreeNode* solve(vector<int>& inorder, vector<int>& postorder, int &index,
+    TreeNode* solve(vector<int>& inorder, vector<int>& postorder, int& index,
                     int inorderStart, int inorderEnd, int n) {
         if (index < 0 || inorderStart > inorderEnd)
             return nullptr;
@@ -33,9 +33,8 @@ public:
             solve(inorder, postorder, index, position + 1, inorderEnd, n);
         root->left =
             solve(inorder, postorder, index, inorderStart, position - 1, n);
-        
 
-        return root;    
+        return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         int size = inorder.size();
